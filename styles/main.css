@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: red;
+}
+
+body {
+  background-color: #2F2A2A;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+header .navbar a {
+  text-decoration: none;
+  color: orange;
+}
+
+/*# sourceMappingURL=main.css.map */
